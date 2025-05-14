@@ -1,10 +1,11 @@
----
-title: "Teaching experience 2"
+<!-- ---
+title: "Teaching experience 1"
 collection: teaching
+type: "Undergraduate course"
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2014-01-01
 location: "City, Country"
 ---
 
@@ -17,4 +18,4 @@ Heading 2
 ======
 
 Heading 3
-======
+====== -->

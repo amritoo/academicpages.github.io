@@ -11,23 +11,30 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Project"
+    url: /project/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://amritoo.hashnode.dev/
+    # url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://drive.google.com/file/d/16c51U0ZxA2gUrgLmRHrYXzfm2UyYTUEG/view?usp=sharing
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

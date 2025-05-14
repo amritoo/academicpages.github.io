@@ -30,7 +30,7 @@ Professional Experience
 - Software Engineering (Spring 2025)
 - System Analysis and Design (Fall 2024)
 
-To learn more about the courses I teach, visit [this page](http::/localhost:4000/teaching).
+To learn more about the courses I teach, visit [this page](https://amritoo.github.io/teaching).
 
 
 <div style="display: flex; justify-content: space-between;">

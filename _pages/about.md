@@ -30,7 +30,7 @@ News
 - **2024-05-02:** I joined as a [Lecturer](https://profile.diu.ac/amritadastipu) in the department of Computer Science and Engineering (CSE) at Dhaka International University (DIU).
 - **2024-03-30:** My first conference paper was published as a [book chapter](https://link.springer.com/chapter/10.1007/978-981-99-8937-9_41) in Springer LNNS series.
 
-For older news, visit [this page](http://localhost:4000/news/).
+For older news, visit [this page](https://amritoo.github.io/news/).
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 

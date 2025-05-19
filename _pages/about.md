@@ -10,7 +10,7 @@ redirect_from:
 <!-- **Notice!** You can also add notices by appending `{: .notice}` to the line following paragraph.
 {: .notice} -->
 
-I am a dedicated [lecturer](https://profile.diu.ac/amritadastipu) at [Dhaka International University (DIU)](https://diu.ac/), committed to enhancing the quality of education through continuous self-improvement. I earned my Bachelor of Science (Engineering) in Computer Science and Engineering from [Hajee Mohammad Danesh Science and Technology University (HSTU)](https://hstu.ac.bd/) in 2023. Shortly after graduation, I joined DIU as a lecturer, where I continue to teach and inspire students.
+I am a dedicated [Lecturer](https://profile.diu.ac/amritadastipu) at [Dhaka International University (DIU)](https://diu.ac/), committed to enhancing the quality of education through continuous self-improvement. I earned my Bachelor of Science (Engineering) in Computer Science and Engineering from [Hajee Mohammad Danesh Science and Technology University (HSTU)](https://hstu.ac.bd/) in 2023. Shortly after graduation, I joined DIU as a lecturer, where I continue to teach and inspire students.
 
 Beyond teaching, I have a strong passion for research, particularly in machine learning and natural language processing. I am always eager to explore emerging technologies and expand my knowledge. In my free time, I enjoy reading books and engaging in intellectual discussions that fuel my curiosity and drive for innovation.
 
